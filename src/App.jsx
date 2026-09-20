@@ -258,7 +258,7 @@ const PROGRAM = [
         { id: "u1-bay", name: "Bayesian Cable Curl", sets: 2, reps: "8-10" },
       ]},
       { name: "Shoulders", exercises: [
-        { id: "u1-clr", name: "Cable Lateral Raise", sub: "Last Set Drop Set", sets: 3, reps: "8-10" },
+        { id: "u1-clr", name: "Dumbbell Lateral Raises", sub: "Last Set Drop Set", sets: 3, reps: "8-10" },
       ]},
     ],
   },
@@ -291,10 +291,10 @@ const PROGRAM = [
         { id: "u2-fly", name: "Seated Cable Chest Fly", sets: 2, reps: "8-10" },
       ]},
       { name: "Biceps", exercises: [
-        { id: "u2-pc", name: "Preacher Curl", sets: 2, reps: "8-10" },
+        { id: "u2-pc", name: "SA Preacher Curl", sets: 2, reps: "8-10" },
       ]},
       { name: "Triceps", exercises: [
-        { id: "u2-satp", name: "Single Arm Tricep Pushdown", sets: 2, reps: "8-10" },
+        { id: "u2-satp", name: "SA Tricep Pushdown", sets: 2, reps: "8-10" },
       ]},
       { name: "Shoulders", exercises: [
         { id: "u2-rdf", name: "Rear Delt Fly", sets: 2, reps: "8-10" },
@@ -306,17 +306,17 @@ const PROGRAM = [
     groups: [
       { name: "Shoulders", exercises: [
         { id: "sa-shp", name: "Shoulder Press", sets: 2, reps: "8-10" },
-        { id: "sa-dblr", name: "DB Lateral Raise", sub: "Drop Set", sets: 4, reps: "8-10" },
+        { id: "sa-dblr", name: "DB Lateral Raises", sub: "Drop Set", sets: 4, reps: "8-10" },
         { id: "sa-rdf", name: "Rear Delt Fly", sets: 2, reps: "8-10" },
       ]},
       { name: "Biceps", exercises: [
-        { id: "sa-ic", name: "Incline Curl", sets: 2, reps: "8-10" },
+        { id: "sa-ic", name: "Bayesian Cable Curl", sets: 2, reps: "8-10" },
         { id: "sa-pc", name: "Preacher Curl", sets: 2, reps: "8-10" },
         { id: "sa-hc", name: "Hammer Curl", sets: 2, reps: "8-10" },
       ]},
       { name: "Triceps", exercises: [
         { id: "sa-ote", name: "SA Overhead Tricep Extension", sets: 2, reps: "8-10" },
-        { id: "sa-tpd", name: "Tricep Pushdown", sets: 2, reps: "8-10" },
+        { id: "sa-tpd", name: "SA Tricep Pushdown", sets: 2, reps: "8-10" },
       ]},
     ],
   },
