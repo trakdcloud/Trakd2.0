@@ -306,7 +306,7 @@ const PROGRAM = [
     groups: [
       { name: "Shoulders", exercises: [
         { id: "sa-shp", name: "Shoulder Press", sets: 2, reps: "8-10" },
-        { id: "sa-dblr", name: "DB Lateral Raises", sub: "Drop Set", sets: 4, reps: "8-10" },
+        { id: "sa-dblr", name: "DB Lateral Raises", sub: "Drop Set", sets: 3, reps: "8-10" },
         { id: "sa-rdf", name: "Rear Delt Fly", sets: 2, reps: "8-10" },
       ]},
       { name: "Biceps", exercises: [
