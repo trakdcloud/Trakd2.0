@@ -311,7 +311,7 @@ const PROGRAM = [
       ]},
       { name: "Biceps", exercises: [
         { id: "sa-ic", name: "Bayesian Cable Curl", sets: 2, reps: "8-10" },
-        { id: "sa-pc", name: "Preacher Curl", sets: 2, reps: "8-10" },
+        { id: "sa-pc", name: "SA Preacher Curl", sets: 2, reps: "8-10" },
         { id: "sa-hc", name: "Hammer Curl", sets: 2, reps: "8-10" },
       ]},
       { name: "Triceps", exercises: [
